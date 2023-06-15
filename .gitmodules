@@ -1,0 +1,18 @@
+[submodule "timezone"]
+	path = timezone
+	url = git@github.com:warewulf-overlays/warewulf-overlay-timezone.git
+[submodule "core"]
+	path = core
+	url = git@github.com:warewulf-overlays/warewulf-overlay-core.git
+[submodule "chrony"]
+	path = chrony
+	url = git@github.com:warewulf-overlays/warewulf-overlay-chrony.git
+[submodule "munge"]
+	path = munge
+	url = git@github.com:warewulf-overlays/warewulf-overlay-munge.git
+[submodule "gpu"]
+	path = gpu
+	url = git@github.com:warewulf-overlays/warewulf-overlay-gpu.git
+[submodule "clustershell"]
+	path = clustershell
+	url = git@github.com:warewulf-overlays/warewulf-overlay-clustershell.git
