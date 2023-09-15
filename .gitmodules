@@ -11,7 +11,7 @@
 	path = munge
 	url = git@github.com:warewulf-overlays/warewulf-overlay-munge.git
 [submodule "gpu"]
-	path = gpu
+	path = config-gpu
 	url = git@github.com:warewulf-overlays/warewulf-overlay-gpu.git
 [submodule "clustershell"]
 	path = clustershell
