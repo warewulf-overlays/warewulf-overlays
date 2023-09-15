@@ -2,7 +2,7 @@
 	path = timezone
 	url = git@github.com:warewulf-overlays/warewulf-overlay-timezone.git
 [submodule "core"]
-	path = core
+	path = utils-core
 	url = git@github.com:warewulf-overlays/warewulf-overlay-core.git
 [submodule "chrony"]
 	path = chrony
@@ -16,3 +16,6 @@
 [submodule "clustershell"]
 	path = clustershell
 	url = git@github.com:warewulf-overlays/warewulf-overlay-clustershell.git
+[submodule "config-dnf"]
+	path = config-dnf
+	url = git@github.com-griznog:warewulf-overlays/config-dnf.git
